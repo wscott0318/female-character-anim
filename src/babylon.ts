@@ -5,7 +5,6 @@ export const loadBabylon = () => {
 
 
   canvas.width = window.innerWidth
-  canvas.width = window.innerWidth
   canvas.height = window.innerHeight
   const experience = new Experience()
   experience.init(canvas)
