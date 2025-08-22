@@ -4,4 +4,5 @@ import './style.css'
 const app = document.querySelector<HTMLDivElement>('#app')
 if (app) {
   loadBabylon()
+  console.log('1')
 }
